@@ -1,5 +1,5 @@
 ### Hello! 👋
 
-- 🔭 I am currently a backend developer. I mainly work on projects that are closed from the public. In the future I want to become a fullstack developer on C#(angular, typescipt).
+- 🔭 I work as the Technical Director at RX GROUP and develop products as a full-stack developer.
 - 🤔 I am also interested in information security, if you need to hack the kettle in the kitchen, then dm me.. Without any jokes, I understand many aspects of technical security.
 - 💬 You can find me on [Telegram](https://t.me/iamsheldon)
